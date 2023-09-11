@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Solrac13
-- 👀 I’m interested in the robots and the vidiogame code
+- 👀 I’m interested in the robots and the vidiogames code
 - 🌱 I’m currently learning tha ESO
 - 💞️ I’m looking to collaborate on a car brand
 - 📫 How to reach me carlos.lopeznaran@gmail.com
